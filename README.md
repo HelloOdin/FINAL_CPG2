@@ -10,7 +10,7 @@ Our goal was to create a go-to resource for college students who want to eat wel
 
 # Getting Started
 
-Go to this website and download the project file (Final_Project_CPG2) that is zipped: 
+[NOT NECESSARY IF YOU DOWNLOAD THE ZIP FILE FROM GITHUB] Go to this website and download the project file (Final_Project_CPG2) that is zipped: 
 https://drive.google.com/drive/folders/1zeC2VXZK38kqyX8CafKkXJWdHDO00ORW?usp=share_link
 
 NOTE! Before running the project, make sure that "Node.js", "Python", and "VSCode" are installed in your local device. In order to check if you have them installed in your local device, follow these steps:
